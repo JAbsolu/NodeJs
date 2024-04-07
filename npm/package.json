@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "date-fns": "^3.6.0",
+    "uuid": "^9.0.1"
+  },
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon"
+  },
+  "name": "npm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "John A",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
